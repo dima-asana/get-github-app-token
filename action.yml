@@ -6,7 +6,7 @@ inputs:
     required: true
   partition:
     description: What partition the authorization is for
-    default: commercial
+    default: 'commercial'
     type: choice
     options:
       - commercial
